@@ -1,12 +1,38 @@
-- 👋 Hi, I’m sheerin
-- 👀 I’m interested in learning more in this field.
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate further more learning
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi 👋 I'm Sheerin Malik
 
-<!---
-sheerin127/sheerin127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+☁️ AWS | DevOps | Cloud Engineer | Linux | 
+🐧 Linux System Administration (RHEL, CentOS, Ubuntu)  
+🚀 CI/CD | Docker | GitHub | Cloud Infrastructure  
+
+---
+
+## 🔧 What I Do
+- Manage and maintain AWS cloud infrastructure  
+- Automate deployments using CI/CD pipelines  
+- Work with Linux servers (RHEL, CentOS, Ubuntu)  
+- Build and containerize applications using Docker  
+- Version control and collaboration using GitHub  
+
+---
+
+## 🛠️ Skills & Tools
+- **Cloud:** AWS (EC2, S3, IAM, VPC, CloudWatch)  
+- **DevOps:** CI/CD, GitHub Actions  
+- **Containers:** Docker  
+- **OS:** Linux (RHEL)  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 🌱 Currently Learning
+- Advanced AWS services  
+- Linux
+- Cloud Computing
+- GitHub
+- Docker
+
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/sheerin127
